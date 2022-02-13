@@ -1,0 +1,5 @@
+DB instance: etlpractice2
+username: admin
+password: 1Dogsrforme23
+host: etlpractice2.cl83j1owuzge.us-east-1.rds.amazonaws.com
+port: 3306

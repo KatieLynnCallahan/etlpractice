@@ -1,0 +1,6 @@
+*.swp/
+*.conf/
+*.cfg/
+Include/
+Lib/
+Scripts/
